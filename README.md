@@ -14,8 +14,8 @@ This script allows you to change the MAC address of a network interface on Linux
 ## Installation
 Clone the repository and navigate to the project directory:
 ```bash
-git clone <repository_url>
-cd <repository_folder>
+git clone https://github.com/FurkanRecber/MACAddressChanger.git
+cd MACAddressChanger
 ```
 
 Make sure Python is installed on your system.
